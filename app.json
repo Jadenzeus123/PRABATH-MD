@@ -7,22 +7,22 @@
 
   "env": {
     "BOT_NUMBER": {
-      "description": "Put the number here.",
+      "description": "27655398135.",
       "required": true
     },  
 
     "PASSWORD": {
-      "description": "Enter a password of your choice here",
+      "description": "Jadenzeus123",
       "required": true
     },
 
     "SESSION_ID": {
-      "description": "Enter session-id here",
+      "description": "PRABATH-MD~hz0AHRSK#5txZtKdEDcrw4grRV43NkIfX5DwzTqftEz45xzFRB_8",
       "required": false
     },
     
     "GITHUB_USERNAME": {
-      "description": "Put your github username here.",
+      "description": "Jadenzeus123.",
       "required": true
     },
     "GITHUB_AUTH_TOKEN": {
