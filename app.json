@@ -1,8 +1,8 @@
 {
-  "name": "PRABATH-MD (2.0.6)",
-  "description": "PRABATH-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+  "name": "ZEUS BOT (2.0.6)",
+  "description": "ZEUS BOT has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
   "logo": "https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg",
-  "keywords": ["prabath", "bot", "whatsapp bot", "multi device", "prabath-md"],
+  "keywords": ["prabath", "bot", "whatsapp bot", "multi device", "ZEUS BOT"],
   "success_url": "/",
 
   "env": {
@@ -26,7 +26,7 @@
       "required": true
     },
     "GITHUB_AUTH_TOKEN": {
-      "description": "Put your github auth-token here.",
+      "description": "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",
       "required": true
     }   
 },
